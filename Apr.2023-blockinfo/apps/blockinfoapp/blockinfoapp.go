@@ -6,7 +6,7 @@ import (
 	log "github.com/sirupsen/logrus"
 )
 
-const GLASSNODEAPIKEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxx" // replace by your API-KEY
+const GLASSNODEAPIKEY = "xxxxxxxxxxxxxxxxxxxxxxxx" // replace by your API-KEY
 
 func CreateBlockInfoApp() gen.ApplicationBehavior {
 	return &BlockInfoApp{}
