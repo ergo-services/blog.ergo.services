@@ -3,7 +3,7 @@ module blockinfo
 go 1.20
 
 require (
-	github.com/ergo-services/ergo v1.999.223
+	github.com/ergo-services/ergo v1.999.224
 	github.com/sirupsen/logrus v1.9.0
 	gorm.io/driver/sqlite v1.5.0
 	gorm.io/gorm v1.25.0
